@@ -1,13 +1,13 @@
 # CrossEnv
 
-This is a cross platform enviroment variable editor, it works on windows and linux. Don't got a mac and I don't want to test it on there. 
-If you are editing or adding local variables you do not need to root/admin. Will need it if you are editing and adding system wide variables
+This is a cross-platform environment variable editor, it works on Windows and Linux. I don't have a Mac and I don't want to test it on there. 
+If you are editing or adding local variables you do not need to root/admin. You will need it if you are editing and adding system-wide variables
 
 # Requirements
 Python 3 and tk
 
 # Download (Release)
-Just get the version from the realese tab and run it
+Just get the version from the release tab and run it
 
 # Dowmload (Source)
 Grab the source
