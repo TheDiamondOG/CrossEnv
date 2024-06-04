@@ -4,7 +4,7 @@ This is a cross-platform environment variable editor, it works on Windows and Li
 If you are editing or adding local variables you do not need to root/admin. You will need it if you are editing and adding system-wide variables
 
 # Notes
-Local only works on the current run of the app
+Local only works on the current run of the app, once it's closed it gets erased
 
 # Requirements
 Python 3 and tk
