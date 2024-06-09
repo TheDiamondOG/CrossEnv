@@ -1,3 +1,5 @@
+# THIS PROJECT IS CURRENTLY BROKEN
+
 # CrossEnv
 
 This is a cross-platform environment variable editor, it works on Windows and Linux. I don't have a Mac and I don't want to test it on there. 
